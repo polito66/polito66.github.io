@@ -10,8 +10,10 @@
 
 ### 04 Caso de estudio Diario
 
-Texto del diario de Colón en formato .txt (e019.txt)
-[Editar el diario](teach-xml-es/e019-excerpt.txt)
+[Editar el diario](teach-xml-es/04-Colon-Markup.pdf)
+
+Texto del diario de Colón en formato .txt
+[e019-excerpt.txt](teach-xml-es/e019-excerpt.txt)
 
 ### Otros materiales
 
