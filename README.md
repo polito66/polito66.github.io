@@ -8,7 +8,7 @@ Here
 
 Here
 
-# Caso de estudio Diario
+**Caso de estudio Diario**
 
-# Otros materiales
+**Otros materiales**
 
