@@ -5,8 +5,9 @@
 Here
 
 ### Trabajo práctico
-
-Here
+[Trabajo práctico](02-IntroOxygen-Markup-Practical.pdf)
+[Trabajo práctico](teach-xml-es/02-IntroOxygen-Markup-Practical.pdf)
+[Trabajo práctico](teach-xml-es/02-IntroOxygen-Markup-Practical.pdf)
 
 ### Caso de estudio Diario
 
