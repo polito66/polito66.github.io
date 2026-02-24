@@ -1,16 +1,16 @@
 ## Curso sobre XML
 
-**Introducción al Marcado**
+### Introducción al Marcado
 
 Here
 
-**Trabajo práctico**
+### Trabajo práctico
 
 Here
 
-**Caso de estudio Diario**
+### Caso de estudio Diario
 
 Here
 
-**Otros materiales**
+### Otros materiales
 
