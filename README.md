@@ -1,10 +1,10 @@
 ## Curso sobre XML
 
-# Introducción al Marcado
+**Introducción al Marcado**
 
 Here
 
-# Trabajo práctico
+**Trabajo práctico**
 
 Here
 
