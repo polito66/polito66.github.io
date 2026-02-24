@@ -23,4 +23,4 @@
 - [Prueba CSS 1](teach-xml-es/test2.css)
 
 ### Otros materiales
-
+- [Extra - La entretenida](teach-xml-es/Extra-Entretenida.pdf)
