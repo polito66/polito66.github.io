@@ -1,4 +1,4 @@
-## Curso sobre XML
+## Curso sobre Marcado de texto digital
 
 ### 01 Introducción al Marcado
 
