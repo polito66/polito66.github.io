@@ -1,17 +1,17 @@
 ## Curso sobre XML
 
-### Introducción al Marcado
+### 01 Introducción al Marcado
 
-Here
+[Introducción de conceptos](teach-xml-es/01-Intro-Markup-ES.pptx)
 
-### Trabajo práctico
-[Trabajo práctico](02-IntroOxygen-Markup-Practical.pdf)
-[Trabajo práctico](teach-xml-es/02-IntroOxygen-Markup-Practical.pdf)
-[Trabajo práctico](teach-xml-es/02-IntroOxygen-Markup-Practical.pdf)
+### 02/03 Trabajo práctico
 
-### Caso de estudio Diario
+[Introducción a Oxygen y a editar en XML](teach-xml-es/02-IntroOxygen-Markup-Practical.pdf)
 
-Here
+### 04 Caso de estudio Diario
+
+Texto del diario de Colón en formato .txt (e019.txt)
+[Editar el diario](teach-xml-es/e019-excerpt.txt)
 
 ### Otros materiales
 
