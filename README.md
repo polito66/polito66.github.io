@@ -22,5 +22,9 @@
 - [Prueba CSS 1](teach-xml-es/test.css)
 - [Prueba CSS 1](teach-xml-es/test2.css)
 
+### 06 Sesión miércoles
+
+- [Sesión miércoles](teach-xml-es/02-Marcado-Mas.pdf)
+  
 ### Otros materiales
 - [Extra - La entretenida](teach-xml-es/Extra-Entretenida.pdf)
